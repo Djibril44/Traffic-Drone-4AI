@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+pandas
+plotly
+torch
+ultralytics
+fpdf
